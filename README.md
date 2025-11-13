@@ -9,7 +9,10 @@ I created all gameplay logic, UI flow, effects, and asset integration myself.
 
 ---
 
-![Gameplay Demo](images/Alien_Invasion.gif)
+<p align="center">
+  <img src="images/Alien_Invasion.gif" alt="Alien Invasion Gameplay" width="600">
+</p>
+
 
 ## 🎮 Game Features
 
